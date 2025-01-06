@@ -1,0 +1,6 @@
+Tensorflow==2.15
+python==3.11
+keras==2.15
+pillow
+requests
+discord.py
