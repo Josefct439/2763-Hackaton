@@ -11,3 +11,11 @@ Proyecto final python PRO - Cambio Climatico
 ## Como se hara:
 1. Crear el bot
 2. Que envie Articulos
+
+
+
+## biblioteca:
+
+## referencia:
+
+## guia:
